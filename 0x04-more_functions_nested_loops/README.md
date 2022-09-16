@@ -1,1 +1,1 @@
-Learning Functions and Loops in C
+learning functions and loops in c from alx
